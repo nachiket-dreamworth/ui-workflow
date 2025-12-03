@@ -1,0 +1,35 @@
+{
+  "name": "@nachiketnkulkarni/ui-workflow",
+  "version": "1.0.0",
+  "description": "Config-driven UI workflow engine with React bindings",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "workflow",
+    "state-machine",
+    "react",
+    "typescript",
+    "frontend"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachiket-dreamworth/ui-workflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nachiket-dreamworth/ui-workflow/issues"
+  },
+  "homepage": "https://github.com/nachiket-dreamworth/ui-workflow#readme"
+}

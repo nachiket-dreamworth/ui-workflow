@@ -1,0 +1,9 @@
+.package-lock.json
+.env
+.DS_Store
+.vscode
+.idea
+/build
+/dist
+/node_modules
+*.tgz
