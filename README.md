@@ -1,7 +1,7 @@
 # `@nachiketnkulkarni/ui-workflow`
 
 A lightweight, type-safe, **UI workflow engine** for React applications.  
-Designed for building **frontend workflow logic** similar to **XState** or backend workflow tools like **Camunda**, but optimized specifically for:
+Designed for building **frontend workflow logic** optimized specifically for:
 
 - **UI-driven flows**
 - **Auto-running steps**
@@ -266,7 +266,7 @@ Returns:
 
 ## 💡 Why This Library?
 
-Unlike XState, this library is:
+This library is:
 
 - purpose-built for **UI flows** (forms, wizards, process automation)
 - simpler to learn
