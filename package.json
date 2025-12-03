@@ -1,6 +1,6 @@
 {
   "name": "@nachiketnkulkarni/ui-workflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Config-driven UI workflow engine with React bindings",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -18,10 +18,11 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "react": "^18.0.0"
+    "react": "^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.0",
+    "react": "^19.0.0",
+    "@types/react": "^18.0.0 || ^19.0.0",
     "typescript": "^5.0.0"
   },
   "repository": {
